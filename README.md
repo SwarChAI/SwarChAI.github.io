@@ -1,2 +1,2 @@
 # SwarChAI.github.io
-SwarChAI hub
+SwarChAI [hub](https://swarchai.github.io/)
